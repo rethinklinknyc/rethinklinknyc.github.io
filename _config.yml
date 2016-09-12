@@ -17,4 +17,4 @@
 name: PeopleLinkNYC
 description: Rethinking & Resisting LinkNYC
 paginate: 10
-baseurl: '/'
+baseurl: ''
