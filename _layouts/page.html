@@ -1,0 +1,28 @@
+{% include header.html %}
+	<body class="no-sidebar">
+
+	<div id="header-wrapper">
+		<div id="header">
+		  {% include nav.html %}
+		</div>
+	</div>
+		<!-- Main -->
+			<div id="main-wrapper">
+				<div class="container">
+
+					<!-- Content -->
+						<article class="box post">
+							<a href="#" class="image featured"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></a>
+							<header>
+								<h2>{{ page.title }}</h2>
+								<p>{{ page.subtitle }}</p>
+							</header>
+							<p>
+							  <section>
+							  {{ page.content }}
+							  </section>
+							</p>
+						</article>
+
+				</div>
+			</div>

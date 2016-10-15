@@ -14,7 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: PeopleLinkNYC
+name: Rethink LinkNYC
 description: Rethinking & Resisting LinkNYC
 paginate: 10
 baseurl: ''
+
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path
+
+exclude:
+  ["README.md","Gemfile","Gemfile.lock",".git/","CNAME","LICENSE.txt","Makefile"]
