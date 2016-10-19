@@ -1,6 +1,6 @@
 ---
 title: Why is this a problem?
-subtitle: Why is this a problem subtitle.... 
+subtitle: Because this really sucks. 
 featured: /assets/images/pic03.jpg
 layout: page
 ---
