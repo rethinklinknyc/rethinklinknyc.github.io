@@ -7,7 +7,6 @@ layout: page
 **1. Where are LinkNYC kiosks, and how many are there?**
 
 The kiosks are currently available only in Manhattan, The Bronx and Queens, but a few dozens will arrive [in Brooklyn by the end of 2016](https://www.dnainfo.com/new-york/20161019/downtown-brooklyn/linknyc-kiosks-brooklyn-wifi). 
-
 There are a few hundred kiosks scattered through Manhattan, most of which are lined up on 3rd Avenue, 8th Avenue, and Broadway. There are a couple dozen kiosks in The Bronx and more than a dozen in Queens. The goal is to have [at least 7,500 Link kiosks across all five boroughs over the next eight years](https://www.link.nyc/assets/downloads/LinkNYC-Fact-Sheet.pdf).
 
 **2.  How much do these kiosks cost?**
