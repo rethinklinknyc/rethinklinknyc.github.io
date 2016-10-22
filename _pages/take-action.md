@@ -1,13 +1,11 @@
 ---
 title: Take Action!
-subtitle: Take action subtitle
+subtitle: Get involved
 featured: /assets/images/pic03.jpg
-layout: page
+layout: takeaction_layout
 ---
-
+  
 Petition
-
-Signup to mailing list
 
 Follow us on Twitter
 
