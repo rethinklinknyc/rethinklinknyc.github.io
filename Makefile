@@ -14,5 +14,10 @@ server:
 publish: site
 	echo "commit to master and push to github to publish"
 
+install:
+	rvm use 2.3.1
+	gem install bundle
+	bundle install
+
 clean :
 	$(RM) $(SITE)
