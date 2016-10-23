@@ -1,6 +1,6 @@
 ---
 title: Why is this a problem?
-subtitle: Because this really sucks. 
+subtitle: So what? Why should I care? 
 featured: /assets/images/pic03.jpg
 layout: page
 ---
@@ -39,6 +39,6 @@ Given the history of surveillance in the U.S. and the willingness of corporation
 
 The NSA invaded our online worlds. Now, Google is bringing that model to your street. 
 
-Say no to LinkNYC. Rethink Link [HYPERLINK: PAGES Take action]
+Say no to LinkNYC. [Rethink Link](/pages/take-action) .
 
 **Target for hackers**
