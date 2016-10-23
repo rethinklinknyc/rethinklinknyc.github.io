@@ -5,19 +5,16 @@ featured: /assets/images/pic03.jpg
 layout: takeaction_layout
 ---
   
-Petition
 
-Follow us on Twitter
+Follow us on <a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a>.
 
-Like us on Facebook
-
-<ul class="social">
-									<li><a class="icon fa-facebook" href="#"><span class="label">Facebook</span></a></li>
-									<li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
-									<li><a class="icon fa-linkedin" href="#"><span class="label">LinkedIn</span></a></li>
-</ul>
+Like us on <a class="icon fa-facebook" href="#"><span class="label">Facebook</span></a>
 
 
-Contact your local councilman
+**Get Involved**
+
+Sign our petition
+
+Contact your local councilperson
 
 Order stickers

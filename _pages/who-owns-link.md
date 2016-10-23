@@ -19,4 +19,4 @@ The [other companies](http://www.businessinsider.com/inside-linknycs-free-public
  
 Selling your data to advertisers, and possibly to the government (See also: [Why is LinkNYC a Problem?](/pages/why-is-this-a-problem), these multinationals expect to recoup their investment.  
 
-![Corporate Structure - via Wikipedia](/assets/images/LinkNYC_corporate_structure.jpg){:style="float: left; margin-right: 7px; margin-top: 7px;"}
+![Corporate Structure - via Wikipedia](/assets/images/LinkNYC_corporate_structure.jpg){: .image .centered width="80%""}
