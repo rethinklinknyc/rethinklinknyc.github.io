@@ -298,6 +298,7 @@
 
 			.box .image.featured
 			{
+				background: #A9A9A9;
 				position: relative;
 				width: auto;
 			}
@@ -845,7 +846,7 @@
 		margin-left: auto;
     	margin-right: auto;
     	width: 60em;
-    	
+
     }
 
 /*********************************************************************************/
