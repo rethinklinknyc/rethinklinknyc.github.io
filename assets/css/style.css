@@ -254,6 +254,13 @@
 				margin-bottom: 0;
 			}
 
+	  #nav 
+	  {	
+		font-size: 120%;
+		font-weight: 600;
+
+	  }
+
 		header
 		{
 		}
