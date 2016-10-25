@@ -19,11 +19,11 @@ The policies regulating LinkNYC are vague. The NY Civil Liberties Union wrote an
 
 LinkNYC is not community WiFi. It’s corporate exploitation and mass surveillance boxed and marketed as free WiFi. Say no to LinkNYC.
 
-(Rethink Link)[/pages/take-action].
+[Rethink Link](/pages/take-action).
 
 **When are LinkNYC kiosks going to be installed?**
 
 Right now! Hundreds of new kiosks are being installed every month, and CityBridge has contracted to install at least 7,500 kiosks across all five boroughs within 8 years. NYC is piloting this program, but CityBridge is spreading: Washington DC had its first kiosk installed this past summer.
 
-(Rethink Link)[/pages/take-action].
+[Rethink Link](/pages/take-action).
 
