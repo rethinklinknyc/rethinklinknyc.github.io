@@ -696,17 +696,17 @@
 
 	#banner
 	{
-		background: #CCE8F4 url('../images/pic01.jpg');
+		background: #A9A9A9 url('../images/rethink-banner.png');
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
-		text-align: center;
+		text-align: right;
 	}
 
 		#banner header
 		{
-			background-color: #252122;
-			background-color: rgba(34,30,31,0.98);
+			background-color: #A9A9A9;// #252122;
+			//background-color: rgba(34,30,31,0.98);
 		}
 
 			#banner header h2
@@ -720,6 +720,7 @@
 				color: #d52349;
 				padding: 0;
 				font-style: normal;
+				font-weight: 600;
 				margin: 0;
 			}
 
