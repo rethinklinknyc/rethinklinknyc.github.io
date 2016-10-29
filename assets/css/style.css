@@ -1,6 +1,6 @@
 @charset 'UTF-8';
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
+@import url("/assets/css/local_gfonts.css");
 
 /*
 	Dopetrope by HTML5 UP
@@ -853,7 +853,7 @@
 		margin-left: auto;
     	margin-right: auto;
     	width: 60em;
-
+    	font-weight: 700;
     }
 
 /*********************************************************************************/
