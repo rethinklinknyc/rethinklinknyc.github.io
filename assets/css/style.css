@@ -309,6 +309,19 @@
 				position: relative;
 				width: auto;
 			}
+	/* the body of posts/pages */
+	.box.post ul
+	{ 
+		    list-style-type: disc;
+		    list-style-position: inside;
+		    padding-left: 5px;
+
+	 }
+	.box.post li
+	{ 
+		    padding-left: 5px;
+
+	 }
 
 	/* Button */
 
