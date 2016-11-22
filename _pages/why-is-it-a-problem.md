@@ -8,9 +8,11 @@ layout: page
 **Why is LinkNYC such a problem?**
 
 LinkNYC does nothing to address to the digital divide. Instead, it subjects us to surveillance and invades our privacy by collecting data about us by tracking New Yorkers’ movements, association patterns, browser habits, and online activities. That data can be:
-* used by corporations to bombard us with targeted advertising that turns our private habits into public electronic billboard ads. 
-* used by the NYPD and the other state agencies to racially profile and further harass marginalized communities. 
-* a rich target for hackers.
+
+
+* Used by corporations to bombard us with targeted advertising that turns our private habits into public electronic billboard ads. 
+* Used by the NYPD and the other state agencies to racially profile and further harass marginalized communities. 
+* A rich target for hackers.
 
 The only area that has been opted out from LinkNYC’s targeted advertising based on your identifying information, is Staten Island, the area where a high concentration of the city’s police force lives. In fact, Staten Island, where Eric Garner was [murdered with a chokehold by a police officer](http://www.rollingstone.com/politics/news/black-lives-matter-11-racist-police-killings-with-no-justice-served-20141204), is also home to the [highest number of most-sued NYPD officers](http://www.nydailynews.com/new-york/staten-island-highest-number-most-sued-nypd-officers-article-1.1882160).
 
