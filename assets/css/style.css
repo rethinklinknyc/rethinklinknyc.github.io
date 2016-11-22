@@ -14,8 +14,8 @@
 
 	body
 	{
-		background: #252122;
-		background-image: url('images/bg02.png');
+		/*background: #252122;
+		background-image: url('images/bg02.png');*/
 	}
 
 		body.is-loading * {
