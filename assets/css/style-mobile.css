@@ -198,6 +198,7 @@
 		color: #858484;
 		background-image: url('images/bg02.png');
 		box-shadow: inset -3px 0px 5px 0px rgba(0,0,0,0.35);
+                background-color: #252122;
 	}
 
 		#navPanel .link
@@ -312,7 +313,7 @@
 	
 		#banner header
 		{
-			padding: 1.5em 1em 1.5em 1em;
+			padding: 1em 1em 3.5em 1em;
 		}
 		
 			#banner header h2

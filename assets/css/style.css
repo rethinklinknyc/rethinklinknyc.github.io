@@ -14,8 +14,8 @@
 
 	body
 	{
-		background: #252122;
-		background-image: url('images/bg02.png');
+		/*background: #252122;
+		background-image: url('images/bg02.png');*/
 	}
 
 		body.is-loading * {
@@ -309,6 +309,19 @@
 				position: relative;
 				width: auto;
 			}
+	/* the body of posts/pages */
+	.box.post ul
+	{ 
+		    list-style-type: disc;
+		    list-style-position: inside;
+		    padding-left: 5px;
+
+	 }
+	.box.post li
+	{ 
+		    padding-left: 5px;
+
+	 }
 
 		/* fix list styles on posts/pages */
 	    .box.post ul
@@ -720,15 +733,16 @@
 	{
 		background: #A9A9A9 url('../images/rethink-banner.png');
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: contain;
 		background-repeat: no-repeat;
 		text-align: right;
 	}
 
 		#banner header
 		{
-			background-color: #A9A9A9;// #252122;
-			//background-color: rgba(34,30,31,0.98);
+
+                          text-shadow: 2px 2px #A9A9A9;// #252122;
+			/*background-color: rgba(34,30,31,0.98);*/
 		}
 
 			#banner header h2
@@ -858,6 +872,9 @@
 		text-align: center;
 	}
 
+	#intro img {
+            width: 100%;
+        }
 	#teaser
 	{	
 		margin-top: 50px;
