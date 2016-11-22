@@ -14,8 +14,8 @@
 
 	body
 	{
-		background: #252122;
-		background-image: url('images/bg02.png');
+		/*background: #252122;
+		background-image: url('images/bg02.png');*/
 	}
 
 		body.is-loading * {
@@ -719,15 +719,16 @@
 	{
 		background: #A9A9A9 url('../images/rethink-banner.png');
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: contain;
 		background-repeat: no-repeat;
 		text-align: right;
 	}
 
 		#banner header
 		{
-			background-color: #A9A9A9;// #252122;
-			//background-color: rgba(34,30,31,0.98);
+
+                          text-shadow: 2px 2px #A9A9A9;// #252122;
+			/*background-color: rgba(34,30,31,0.98);*/
 		}
 
 			#banner header h2
