@@ -706,7 +706,7 @@
 	{
 		background: #A9A9A9 url('../images/rethink-banner.png');
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: contain;
 		background-repeat: no-repeat;
 		text-align: right;
 	}
