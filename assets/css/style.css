@@ -857,6 +857,9 @@
 		text-align: center;
 	}
 
+	#intro img {
+            width: 100%;
+        }
 	#teaser
 	{	
 		margin-top: 50px;
