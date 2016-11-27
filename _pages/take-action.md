@@ -1,6 +1,6 @@
 ---
 title: Take Action!
-subtitle: Get involved
+subtitle: 
 featured: /assets/images/pic03.jpg
 layout: takeaction_layout
 ---
@@ -11,10 +11,8 @@ Follow us on <a class="icon fa-twitter" href="http://twitter.com/intent/tweet?te
 Like us on <a class="icon fa-facebook" href="http://www.facebook.com/share.php?u={{ site.url }}"><span class="label">Facebook</span></a>
 
 
-**Get Involved**
+<header><p>Get Involved</p><header>
 
-Sign our petition
+Request stickers
 
-Contact your local councilperson
-
-Order stickers
+To request RethinkLinkNYC Campaign stickers, please email rethinklinknyc@riseup.net. 
