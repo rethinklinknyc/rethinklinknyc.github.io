@@ -1,6 +1,6 @@
 ---
 title: Rethink Link Launches
-featured: /assets/images/pic03.jpg
+featured: /assets/images/rethinklink_sticker.jpg
 layout: post
 ---
 
