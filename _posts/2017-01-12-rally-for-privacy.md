@@ -14,7 +14,7 @@ RethnkLinkyNYC is a group of concerned citizens whi are demanding to Rethink the
 **WHERE:**    SE corner 61st and Broadway, Manhattan [map](http://www.openstreetmap.org/node/3269834178#map=19/40.76953/-73.98190)<br>
 **WHEN:**     January 12, 12:30pm 2016<br>
 
-We invite you to be signs and spirit to affirm our right to privacy.
+We invite you to bring signs to affirm our right to privacy.
                                     
 
 
