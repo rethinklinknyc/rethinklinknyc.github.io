@@ -17,6 +17,6 @@ Titan was the subject of [controversy](https://www.buzzfeed.com/josephbernstein/
 
 The [other companies](http://www.businessinsider.com/inside-linknycs-free-public-gigabit-wifi-plan-2016-2) involved include **Qualcomm**, a telecom conglomerate that makes microchips and geolocation tracking technology and **Comark** that is building the physical booths. 
  
-Selling your data to advertisers, and possibly to the government (See also: [Why is LinkNYC a Problem?](/pages/why-is-this-a-problem), these multinationals expect to recoup their investment.  
+Selling your data to advertisers, and possibly to the government (See also: [Why is LinkNYC a Problem?](/pages/why-is-it-a-problem), these multinationals expect to recoup their investment.  
 
 ![Corporate Structure - via Wikipedia](/assets/images/LinkNYC_corporate_structure.jpg){: .image .centered width="80%""}

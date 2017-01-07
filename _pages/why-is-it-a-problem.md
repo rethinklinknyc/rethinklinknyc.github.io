@@ -17,7 +17,7 @@ LinkNYC does nothing to address to the digital divide. Instead, it subjects us t
 The only area that has been opted out from LinkNYC’s targeted advertising based on your identifying information, is Staten Island, the area where a high concentration of the city’s police force lives. In fact, Staten Island, where Eric Garner was [murdered with a chokehold by a police officer](http://www.rollingstone.com/politics/news/black-lives-matter-11-racist-police-killings-with-no-justice-served-20141204), is also home to the [highest number of most-sued NYPD officers](http://www.nydailynews.com/new-york/staten-island-highest-number-most-sued-nypd-officers-article-1.1882160).
 
 **Corporate surveillance**
-*Business Insider* says that the booths will collect neighborhood-specific data. A representative from Intersection, the [parent company of LinkNYC](/pages/Who-owns-link) has [commented](http://www.businessinsider.com/inside-linknycs-free-public-gigabit-wifi-plan-2016-2) that it will use LinkNYC to "gain insights into how people use the network and how people move through the city." The company, which is owned by Google, plans to build neighborhood profiles that can be sold to advertisers. 
+*Business Insider* says that the booths will collect neighborhood-specific data. A representative from Intersection, the [parent company of LinkNYC](/pages/who-owns-link) has [commented](http://www.businessinsider.com/inside-linknycs-free-public-gigabit-wifi-plan-2016-2) that it will use LinkNYC to "gain insights into how people use the network and how people move through the city." The company, which is owned by Google, plans to build neighborhood profiles that can be sold to advertisers. 
 
 In other words, you are the product. 
 
