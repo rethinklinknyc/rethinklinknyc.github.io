@@ -19,6 +19,8 @@ description: Rethinking & Resisting LinkNYC
 paginate: 10
 baseurl: ''
 
+future: true
+
 collections:
   pages:
     output: true
