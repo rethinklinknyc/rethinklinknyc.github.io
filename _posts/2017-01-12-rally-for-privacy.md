@@ -12,7 +12,7 @@ LinkNYC kiosks are springing up all over the city. They are marketed as “free�
 
 RethnkLinkNYC is a group of concerned citizens whi are demanding to Rethink the Link.nyc program. We believe LinkNYC is not true community wifi. Instead, LinkNYC is mass surveillance and corporate profit boxed and marketed as free wifi. True community WiFi unites and connects people. It affirms freedom, openness and trust.
                                                   
-**WHAT:**     5 minute scripted skit featuring an NYC kiosk featuring a first encounter with link.nyc kiosk<br>
+**WHAT:**     A 5 minute scripted skit featuring a New York couple’s first encounter with an 8 foot tall living kiosk.<br>
 **WHERE:**    SE corner 61st and Broadway, Manhattan [map](http://www.openstreetmap.org/node/3269834178#map=19/40.76953/-73.98190)<br>
 **WHEN:**     January 12, 12:30pm 2016<br>
 
