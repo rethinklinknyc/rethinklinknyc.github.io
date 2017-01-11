@@ -17,7 +17,8 @@ RethinkLinkNYC is a group of concerned citizens who are demanding to Rethink the
 **WHEN:**     Thursday January 12, 2017 -- 12:30pm-1pm<br>
 
 We invite you to bring signs to affirm our right to privacy.
-                                    
+
+(For those who use it, here is the [Facebook Event](https://www.facebook.com/events/405785936420212/))
 
 
 
