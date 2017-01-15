@@ -5,7 +5,7 @@ featured: /assets/images/pic03.jpg
 layout: page
 ---
 
-More about the LinkNYC controversy and the growing therat of surviellance:
+More about the LinkNYC controversy and the growing threat of surviellance:
 
 
 * New York’s New Public Wi-Fi Kiosks Are Spying on You, Says
