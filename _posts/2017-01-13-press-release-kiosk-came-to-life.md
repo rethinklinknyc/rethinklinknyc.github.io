@@ -1,5 +1,5 @@
 ---
-title: FOR IMMEDIATE RELEASE: January 12, 2017
+title: FOR IMMEDIATE RELEASE - January 12, 2017
 featured: /assets/images/flyer_cover_kiosk_anatomy.png
 layout: post
 ---
