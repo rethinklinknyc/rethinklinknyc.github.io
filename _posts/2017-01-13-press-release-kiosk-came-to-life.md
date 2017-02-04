@@ -1,6 +1,6 @@
 ---
 title: FOR IMMEDIATE RELEASE - January 13, 2017
-featured: /assets/images/flyer_cover_kiosk_anatomy.png
+featured: /assets/images/rethink_street_theater_square.jpg
 layout: post
 ---
 
