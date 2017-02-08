@@ -1,5 +1,5 @@
 ---
-title: RethinkLinkNYC featured on BRICK TV's BK Stories 
+title: RethinkLinkNYC featured on BRIC TV's BK Stories 
 featured: https://www.youtube-nocookie.com/embed/c2MPqPr8VDE?rel=0
 layout: post_video
 published: true
