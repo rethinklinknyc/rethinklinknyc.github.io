@@ -1,5 +1,5 @@
 ---
-title: Not Your Grampa's Payphone: Creepy kiosks worry privacy advocates
+title: Not Your Grampas Payphone: Creepy kiosks worry privacy advocates
 featured: /assets/images/indy_not_your_grandpa_square.png
 layout: post
 ---
