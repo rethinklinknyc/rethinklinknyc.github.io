@@ -3,6 +3,7 @@ title: Not Your Grampa's Payphone: Creepy kiosks worry privacy advocates
 featured: /assets/images/indy_not_your_grandpa_square.png
 layout: post
 ---
+
 **RethinkLinkNYC featured in The Indypendant**
 
 RethinkLink.NYC was spotlighted in the March 2017 issue of The Indypendant, #222:
