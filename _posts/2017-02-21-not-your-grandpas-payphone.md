@@ -1,6 +1,6 @@
 ---
 title: RethinkLinkNYC featured in The Indypendant 
-featured: /assets/images/indy_not_your_grandpas_payphone.jpg
+featured: /assets/images/indy_not_your_grandpa_square.png
 layout: post
 ---
 
