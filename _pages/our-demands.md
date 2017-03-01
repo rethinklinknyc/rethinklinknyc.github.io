@@ -18,12 +18,16 @@ layout: page
   -Supposedly LinkNYC is in a Beta phase, but it's not clear how CityBridge is collecting feedback on the current kiosks. We (and the New York Civil Liberties Union) have questions about the terms of use...and a whole lot more.
 
 - **Provide genuine community WiFi (especially to low-income communities) -- without the surveillance.**
-  - Create a public WiFi system that gives to the community rather than taking from it and do not compromise citizen's privacy.
-  - People-focused rather than profit-driven design. 
-  - Here's a brief list of alternatives: [NYC Mesh](https://nycmesh.net/), [Red Hook Wifi](http://redhookwifi.org/), [Free Harlem Wifi](http://www1.nyc.gov/site/fund/initiatives/free-harlem-wifi.page)
-
+  - Create a public WiFi system that gives to the community rather than taking from it and does not compromise citizens' privacy.
+  - Use people-focused rather than profit-driven design. 
+  
+  Here's a brief list of freeor low cost WiFi projects: 
+  [NYC Mesh](https://nycmesh.net/)
+  [Red Hook Wifi](http://redhookwifi.org/)
+  [Free Harlem Wifi](http://www1.nyc.gov/site/fund/initiatives/free-harlem-wifi.page)
+  New America Resilient Wesh Wireless Project
 
 - **Institute public oversight for any and all community WiFi projects.**
-  - New Yorkers want control over the shape of New York's digital future. 
+  - New Yorkers want control over the shape of their city's digital future. 
 
 [Rethink Link](/pages/take-action).
