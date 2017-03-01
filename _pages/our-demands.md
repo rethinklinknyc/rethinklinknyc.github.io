@@ -15,7 +15,7 @@ layout: page
   - Information about New Yorkers' movements on- or off-line should not be monetized for corporate profit.  
  
 - **Answer the public's questions**
-  -We and the New York Civil Liberties Union have questions about the terms of use...and a whole lot more.
+  -Supposedly LinkNYC is in a Beta phase, but it's not clear how CityBridge is collecting feedback on the current kiosks. We (and the New York Civil Liberties Union) have questions about the terms of use...and a whole lot more.
 
 - **Provide genuine community WiFi (especially to low-income communities) -- without the surveillance.**
   - Create a public WiFi system that gives to the community rather than taking from it and do not compromise citizen's privacy.
