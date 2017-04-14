@@ -6,12 +6,12 @@ layout: page
 ---
 **1. Where are LinkNYC kiosks, and how many are there?**
 
-The kiosks are currently available only in Manhattan, The Bronx and Queens, but a few dozens will arrive [in Brooklyn by the end of 2016](https://www.dnainfo.com/new-york/20161019/downtown-brooklyn/linknyc-kiosks-brooklyn-wifi). 
-There are a few hundred kiosks scattered through Manhattan, most of which are lined up on 3rd Avenue, 8th Avenue, and Broadway. There are a couple dozen kiosks in The Bronx and more than a dozen in Queens. The goal is to have [at least 7,500 Link kiosks across all five boroughs over the next eight years](https://www.link.nyc/assets/downloads/LinkNYC-Fact-Sheet.pdf).
+The kiosks are currently available only in Manhattan, the Bronx and Queens, but dozens more will arrive [in Brooklyn by the middle of 2017](https://www.dnainfo.com/new-york/20161019/downtown-brooklyn/linknyc-kiosks-brooklyn-wifi). 
+There are a few hundred kiosks scattered through Manhattan, most of which are lined up on 3rd Avenue, 8th Avenue, and Broadway. There are a couple dozen kiosks in the Bronx and more than a dozen in Queens. The goal is to have [at least 7,500 Link kiosks across all five boroughs over the next eight years](https://www.link.nyc/assets/downloads/LinkNYC-Fact-Sheet.pdf).
 
 **2.  How much will it cost to build these kiosks?**
 
-CityBridge, the consortium company that owns these kiosks, is reportedly investing [more than $200 million to build new fiber optic cable that will deliver gigabit connectivity](https://www.link.nyc/assets/downloads/LinkNYC-Fact-Sheet.pdf). There’s also the contract obliging the consortium to [pay New York a minimum of nearly $750 million through 2029](https://www1.nyc.gov/assets/doitt/downloads/pdf/Franchise-Agreement-for-Public-Communications-Structures-(REVISED-FINAL-12-10-2014).pdf).
+CityBridge, the consortium that owns these kiosks, is reportedly investing [more than $200 million to build new fiber optic cable that will deliver gigabit connectivity](https://www.link.nyc/assets/downloads/LinkNYC-Fact-Sheet.pdf). There’s also the contract obliging the consortium to [pay New York a minimum of nearly $750 million through 2029](https://www1.nyc.gov/assets/doitt/downloads/pdf/Franchise-Agreement-for-Public-Communications-Structures-(REVISED-FINAL-12-10-2014).pdf).
 
 **3. Who is paying for this investment?**
 
@@ -28,19 +28,19 @@ From a law enforcement standpoint, any information provided to LinkNYC can be us
 
 **6. Are there any kiosks that provide wifi but no advertising?**
 
-Yes! But, they will only be implemented on Staten Island. This seems fishy to us, so we're looking into the background of non-advertising kiosks and trying to find out whether more widespread use of these is a viable option
+Yes! But, they will only be installed on Staten Island; we're looking into whether more widespread use of these is a viable option
 
 **7. How many people are registered users on these kiosks?**
 
-Link NYC has recently revealed that [more than half a million people](http://www.amny.com/news/linknyc-free-wi-fi-use-at-kiosks-surpasses-576-000-people-1.12401191) have signed into the internet service with their devices so far.
+[More than half a million people](http://www.amny.com/news/linknyc-free-wi-fi-use-at-kiosks-surpasses-576-000-people-1.12401191) have signed into the internet service with their devices so far.
 
 **8. Should I be concerned about privacy if I don't interact with these kiosks at all?**
 
-Now we are in a rather murky territory: LinkNYC kiosks have “environmental sensors” that reportedly collected information about “the environment surrounding” the kiosks. It is not clear at all what kind of data these sensors gather but [Link’s privacy policy](http://www1.nyc.gov/assets/doitt/downloads/pdf/Proposed-PCS-Franchise-Exhibit-2-CityBridge-Privacy-Policy.pdf) maintains that these sensors “do not collect data from or about you.” 
+Now we are in a rather murky territory: LinkNYC kiosks have “environmental sensors” that reportedly collect information about “the environment surrounding” the kiosks. It is not clear what kind of data these sensors gather but [Link’s privacy policy](http://www1.nyc.gov/assets/doitt/downloads/pdf/Proposed-PCS-Franchise-Exhibit-2-CityBridge-Privacy-Policy.pdf) maintains that these sensors “do not collect data from or about you.” 
 
 **9. At least there are no cameras on these kiosks -- right?**
 
-Link states that the kiosk “may include a camera.” Cameras will capture images of the area surrounding the kiosks, and those images will inevitably include users and passerby. 
+Link states that the kiosk “may include a camera.” Live cameras would capture images of the area surrounding the kiosks, and those images will inevitably include users and passerby. 
 
 **10. Why does Link need video footage? How will they use it?**
 
@@ -52,12 +52,12 @@ No more than seven days -- unless “the footage is necessary to investigate an 
 
 **12. Does LinkNYC use [facial recognition technology](https://www.aclu.org/other/qa-face-recognition) with video footage?**
 
-At the moment Link states that they will not use face recognition for any reason, and adds, we will not use our cameras to track your movement through the city."
+At the moment CityBridge policy states that the company will not use facial recognition for any reason will not use cameras to track  movement through the city.
 
 **What we DON'T know?**
 
 1. What kind of data does LinkNYC collect with environmental sensors and cameras?
-2. What is the due process for citizens to know if/when the law enforcement uses their data as collected by LinkNYC cameras or sensors?
+2. What is the process for citizens to find out if/when law enforcement uses their data as collected by LinkNYC cameras or sensors?
 3. Which company provides the fiber optic connectivity for kiosks?
 4. Why is there no advertising on kiosks on Staten Island?
 

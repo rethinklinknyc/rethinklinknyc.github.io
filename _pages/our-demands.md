@@ -11,19 +11,23 @@ layout: page
   - We, as New Yorkers need to know what is being done in our name. And, we have questions. [HYPERLINK]
 
 - **Remove surveillance cameras and bluetooth beacons immediately.**
-  - Kiosks do not need to have cameras and blue tooth chips to bridge the digital divide.
-  - Information about New Yorkers movements on- or off-line should not be monetized for corporate profit.  
+  - Kiosks do not need to have cameras and blue tooth chips to provide WiFi.
+  - Information about New Yorkers' movements on- or off-line should not be monetized for corporate profit.  
  
-- **Answer our questions**
-  -We have questions about the contract and a whole lot else.
+- **Answer the public's questions**
+  -Supposedly LinkNYC is in a Beta phase, but it's not clear how CityBridge is collecting feedback on the current kiosks. We (and the New York Civil Liberties Union) have questions about the terms of use...and a whole lot more.
 
-- **Provide genuine community WiFi to low-income communities -- without the surveillance.**
-  - Free public Wi-Fi system that gives to the community rather than taking from it. We want public information services that  do not compromise citizen privacy.
-  - People-focused rather than profit-driven design. 
-  - Here's a brief list of alternatives: [NYC Mesh](https://nycmesh.net/), [Red Hook Wifi](http://redhookwifi.org/), [Free Harlem Wifi](http://www1.nyc.gov/site/fund/initiatives/free-harlem-wifi.page)
-
+- **Provide genuine community WiFi (especially to low-income communities) -- without the surveillance.**
+  - Create a public WiFi system that gives to the community rather than taking from it and does not compromise citizens' privacy.
+  - Use people-focused rather than profit-driven design. 
+  
+  Here's a brief list of freeor low cost WiFi projects: 
+  [NYC Mesh](https://nycmesh.net/)
+  [Red Hook Wifi](http://redhookwifi.org/)
+  [Free Harlem Wifi](http://www1.nyc.gov/site/fund/initiatives/free-harlem-wifi.page)
+  New America Resilient Wesh Wireless Project
 
 - **Institute public oversight for any and all community WiFi projects.**
-  - New Yorkers want control over the wholesale sellout of personal data. We demand that no data should be collected by corporations without our explicitly opting in.
+  - New Yorkers want control over the shape of their city's digital future. 
 
 [Rethink Link](/pages/take-action).
