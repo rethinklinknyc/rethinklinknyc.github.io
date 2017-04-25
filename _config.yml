@@ -28,4 +28,4 @@ collections:
 
 exclude:
   ["README.md","Gemfile","Gemfile.lock",".git/","CNAME","LICENSE.txt","Makefile"]
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
