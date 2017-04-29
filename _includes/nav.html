@@ -6,6 +6,7 @@
 					  {% assign current = page.url | downcase | split: '/' %}
 						<li {% if page.url == "/" %}class='current'{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 						<li {% if current[-1] == 'what-is-link' %}class='current'{% endif %}><a href="{{ site.baseurl }}/pages/what-is-link">What is LinkNYC?</a></li>
+						<li><a href="{{ site.baseurl }}/#news">News</a></li>
 						<li {% if current[-1] == 'quick-facts'%}class='current'{% endif %}><a href="{{ site.baseurl
 }}/pages/quick-facts">Quick Facts</a></li>
 						<li {% if current[-1] == 'learn-more'%}class='current'{% endif %}><a href="{{ site.baseurl
