@@ -2,6 +2,7 @@
 title: Not so private policy
 featured: /assets/images/indy_not_your_grandpa_square.png
 layout: post
+published: false
 ---
 
 On March 17th LinkNYC issued a long-overdue update to their [privacy policy](https://link.nyc/privacy-policy.html), a full year after the NYCLU wrote an [open letter](https://www.nyclu.org/en/press-releases/nyclu-citys-public-wi-fi-raises-privacy-concerns) demanding clarification to flagrant privacy infringements.
