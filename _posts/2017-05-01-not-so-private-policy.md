@@ -15,7 +15,7 @@ You can review the old privacy policy on the Internet Archive - https://web-beta
 
 Then, we closely analyzed the differences and assembled our critiques as annotations on top of the policy itself: https://via.hypothes.is/https://link.nyc/privacy-policy.html
 
-On Monday April 24th the New York City Council conducted a [oversight hearing](http://legistar.council.nyc.gov/MeetingDetail.aspx?ID=542433&GUID=31870105-4C47-43F9-AB9E-EC2A1B0A1E36&Options=info&Search=) on the Privacy of City Data ([00:34:19](http://isoc-ny.org/misc/2017-04-24_nycc_tech_committee_privacy.mp4)):  
+On Monday April 24th the New York City Council conducted an [oversight hearing](http://legistar.council.nyc.gov/MeetingDetail.aspx?ID=542433&GUID=31870105-4C47-43F9-AB9E-EC2A1B0A1E36&Options=info&Search=) on the Privacy of City Data ([00:34:19](http://isoc-ny.org/misc/2017-04-24_nycc_tech_committee_privacy.mp4)):  
 
 <blockquote>
 <b>James Vacca (Chair, NYC Committee on Technology)</b>: Do you see areas of privacy that you should be strengthening?
