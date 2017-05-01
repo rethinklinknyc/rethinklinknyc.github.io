@@ -7,7 +7,7 @@ published: false
 
 On March 17th LinkNYC issued a long-overdue update to their [privacy policy](https://link.nyc/privacy-policy.html), a full year after the NYCLU wrote an [open letter](https://www.nyclu.org/en/press-releases/nyclu-citys-public-wi-fi-raises-privacy-concerns) demanding clarification to flagrant privacy infringements.
 
-The new privacy policy falls far short of making us feel safe on our streets. After reviewing the policy changes, Rethink LinkNYC believes that this cosmetic update is designed reassure the public that LinkNYC is taking privacy concerns seriously, when in fact are dangerously exposed. 
+The new privacy policy falls far short of making us feel safe on our streets. After reviewing the policy changes, Rethink LinkNYC believes that this cosmetic update is designed to reassure the public that LinkNYC is taking privacy concerns seriously, when in fact we are dangerously exposed. 
 
 Even the best privacy policy is worthless without oversight or accountability, and we demand a citizen-run governance processes to enforce compliance. Until this is in place, LinkNYC kiosk construction needs to be immediately halted. The LinkNYC policy can be updated at any time, and its permanence should be stated in the charter. Even with decent privacy policies in place, in the past few years we have learned about countless [data breaches](https://www.identityforce.com/blog/2017-data-breaches) and gross violations, such as AT&T (selling customer data)[https://www.theguardian.com/business/2016/oct/25/att-secretly-sells-customer-data-law-enforcement-hemisphere] to law enforcement. 
  
