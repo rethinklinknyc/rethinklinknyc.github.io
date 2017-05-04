@@ -9,7 +9,7 @@ On March 17th LinkNYC issued a long-overdue update to its [privacy policy](https
 
 The new privacy policy falls far short of making us feel safe on our streets. After reviewing the policy changes, Rethink LinkNYC believes that this cosmetic update is designed to reassure the public that LinkNYC is taking privacy concerns seriously, when in fact the opposite is true, that we remain dangerously exposed.
 
-Even the best privacy policy is worthless without oversight or accountability. We therefore demand a citizen-run governance processes to enforce compliance. Until this is in place, LinkNYC kiosk construction needs to be immediately halted. 
+Even the best privacy policy is worthless without oversight or accountability. We therefore demand a citizen-run governance processes to enforce compliance. This is a prime example of something that the [NYC Privacy Board](https://www.privacyboard.nyc/) could oversee. Until this is in place, LinkNYC kiosk construction needs to be immediately halted. 
 
 The LinkNYC policy can be updated at any time. Instead, however, its permanence should be explicitly stated in the program's charter. And, even with decent privacy policies in place, in the past few years we have learned about countless [data breaches](https://www.identityforce.com/blog/2017-data-breaches) and gross violations, such as AT&T [selling customer data](https://www.theguardian.com/business/2016/oct/25/att-secretly-sells-customer-data-law-enforcement-hemisphere) to law enforcement. 
  
