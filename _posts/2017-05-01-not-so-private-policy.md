@@ -2,7 +2,6 @@
 title: Not so private policy
 featured: /assets/images/body_scanner_800px-Mmw_large.jpg
 layout: post
-published: false
 ---
 
 On March 17th LinkNYC issued a long-overdue update to its [privacy policy](https://link.nyc/privacy-policy.html), a full year after the New York Civil Liberties Union wrote an [open letter](https://www.nyclu.org/en/press-releases/nyclu-citys-public-wi-fi-raises-privacy-concerns) demanding clarification in relation to flagrant privacy infringements in the original.
