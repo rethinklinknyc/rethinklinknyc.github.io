@@ -16,7 +16,7 @@ You can review the old LinkNYC privacy policy on the Internet Archive - [web-bet
 
 Rethink Link is in the process of closely analyzing the differences between the two texts and assembling our critiques of the new policy as annotations on top of the policy itself: [via.hypothes.is/https://link.nyc/privacy-policy.html](https://via.hypothes.is/https://link.nyc/privacy-policy.html). Log in to hypothes.is to join the conversation! 
 
-<center style="font-size:20px">* * *</center>
+<center><b>* * *</b></center>
 
 On Monday April 24th the New York City Council conducted an [oversight hearing](http://legistar.council.nyc.gov/MeetingDetail.aspx?ID=542433&GUID=31870105-4C47-43F9-AB9E-EC2A1B0A1E36&Options=info&Search=) on the Privacy of City Data ([00:34:19](http://isoc-ny.org/misc/2017-04-24_nycc_tech_committee_privacy.mp4)):  
 
