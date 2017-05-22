@@ -1,8 +1,8 @@
 ---
 title: Short film “The Better to Spy You With”  debuts at Workers Unite Film Festival, May 5-25
-featured: /assets/images/spy-you-with-still.jpg
+featured: /assets/images/workers-unite.jpg
 layout: post
-published: false
+published: true
 ---
 **From the streets to the theater - the word is getting out!**
 
