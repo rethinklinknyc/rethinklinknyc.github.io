@@ -1,6 +1,6 @@
 ---
 title:  The Better to Spy you With
-featured: https://vimeo.com/216307533
+featured: https://player.vimeo.com/video/216307533
 layout: post_video
 ---
 
