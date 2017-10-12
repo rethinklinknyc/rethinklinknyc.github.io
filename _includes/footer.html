@@ -8,7 +8,7 @@
 									<h2>News & Announcements</h2>
 								</header>
 								<ul class="dates">
-								{% for post in site.posts offset: 0 limit: 5 %}
+								{% for post in site.posts offset: 0 limit: 15 %}
 									<li>
 										<span class="date">{{ post.date | date: "%B"}} <strong>{{ post.date | date: "%d"}}</strong></span>
 										<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
