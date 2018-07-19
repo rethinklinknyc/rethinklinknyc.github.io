@@ -1,6 +1,5 @@
 ---
 title: ProPublica and NPR Unveil Underside Of Health Insurance
-featured: /assets/images/elephant_tightrope.jpg
 layout: post
 published: true
 ---
