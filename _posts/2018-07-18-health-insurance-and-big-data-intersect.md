@@ -1,6 +1,6 @@
 ---
 title: Health Insurance And Big Data Intersect
-feature: /assets/images/elephant_tightrope.jpg
+featured: /assets/images/elephant_tightrope.jpg
 layout: post
 published: true
 ---
