@@ -1,5 +1,5 @@
 ---
-title: ProPublic and NPR Unveil Underside Of Health Insurance
+title: ProPublica and NPR Unveil Underside Of Health Insurance
 layout: post
 published: true
 ---
@@ -10,6 +10,7 @@ The laws regarding digital data in the United States is so lax, your data can be
 <blockquote>
 In a separate conversation, a salesman from a different company joked about the potential for error. "God forbid you live on the wrong street these days," he said. "You're going to get lumped in with a lot of bad things."
 </blockquote>
+
 
 <blockquote>
 ...[Aetna] had obtained personal information from a data broker on millions of Americans. The data contained each person's habits and hobbies, like whether they owned a gun, and if so, what type, [data analyst Erin Kaufman] said. It included whether they had magazine subscriptions, liked to ride bikes or run marathons. It had hundreds of personal details about each person.
