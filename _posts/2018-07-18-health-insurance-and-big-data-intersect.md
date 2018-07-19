@@ -1,5 +1,6 @@
 ---
-title: ProPublica and NPR Unveil Underside Of Health Insurance
+title: Health Insurance And Big Data Intersect
+feature: /assets/images/elephant_tightrope.jpg
 layout: post
 published: true
 ---
