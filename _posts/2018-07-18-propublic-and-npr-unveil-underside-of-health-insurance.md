@@ -1,13 +1,11 @@
 ---
-title: ProPublic and NPR Unveil The Underside Of Health Insurance
+title: ProPublic and NPR Unveil Underside Of Health Insurance
 layout: post
-published: false
+published: true
 ---
 **Companies Purchase Your Data To Determine Your Rates**
 
-<a href='https://pixels.com/featured/baby-elephant-by-sigi-kolbe.html'><img src='https://pixels.com/displayartwork.html?id=4138459&width=250&height=250' alt='Sell Art Online' title='Sell Art Online' style='border: none;'></a>
-
-The laws regarding digital data in the United States is so lax, your data can be and is used against you, the consumer--accuracy be damned. [ProPublica writes](https://www.propublica.org/article/health-insurers-are-vacuuming-up-details-about-you-and-it-could-raise-your-rates) that health insurance companies are "tracking your race, education level, TV habits, marital status, net worth," as well as "what you post on social media, whether you're behind on your bills, what you order online," and much more to predict how much you will cost them.
+The laws regarding digital data in the United States is so lax, your data can be and is used against you, the paying consumer--accuracy be damned. [ProPublica writes](https://www.propublica.org/article/health-insurers-are-vacuuming-up-details-about-you-and-it-could-raise-your-rates) that health insurance companies are "tracking your race, education level, TV habits, marital status, net worth," as well as "what you post on social media, whether you're behind on your bills, what you order online," and much more to predict how much you will cost them.
 
 <blockquote>
 In a separate conversation, a salesman from a different company joked about the potential for error. "God forbid you live on the wrong street these days," he said. "You're going to get lumped in with a lot of bad things."
