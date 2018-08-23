@@ -3,7 +3,7 @@ title: Bartering Data, Not Selling
 layout: post
 published: true
 ---
-**Zuckerberg Doesn't Tells Congress Facebook Barters Data**
+**Zuckerberg Doesn't Tell Congress Facebook Barters Data**
 
 In the world of semantics, bartering is not the same as selling. https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html
 
