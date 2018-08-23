@@ -5,9 +5,9 @@ published: true
 ---
 **Zuckerberg Doesn't Tell Congress Facebook Barters Data**
 
-In the world of semantics, bartering is not the same as selling. https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html
+In the world of semantics, bartering is not the same as selling. [https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html)
 
-In the same news, Zuckie lied to Congress and to the public about users owning and having control of their data, saying: "Every piece of content that you share on Facebook you own. You have complete control over who sees it and how you share it." https://nakedsecurity.sophos.com/2018/06/05/facebook-defends-practice-of-giving-deep-data-access-to-device-makers/
+In the same news, Zuckie lied to Congress and to the public about users owning and having control of their data, saying: "Every piece of content that you share on Facebook you own. You have complete control over who sees it and how you share it." [https://nakedsecurity.sophos.com/2018/06/05/facebook-defends-practice-of-giving-deep-data-access-to-device-makers/](https://nakedsecurity.sophos.com/2018/06/05/facebook-defends-practice-of-giving-deep-data-access-to-device-makers/)
 
 From the NYTimes article:
 <blockquote>
