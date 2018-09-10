@@ -23,7 +23,7 @@ As mentioned before by [us](http://rethinklink.nyc/2018/08/22/anonymized-data-pr
 
 <blockquote>
 As [Sidewalk Labs CEO Daniel] Doctoroff, who was also the city’s former deputy mayor of economic development, has said of the kiosks: “By having access to the browsing activity of people using the Wi-Fi — all anonymized and aggregated — we can actually then target ads to people in proximity and then obviously over time, track them through lots of different things, like beacons and location services, as well as their browsing activity. So in effect, what we’re doing is replicating the digital experience in physical space.”
-<blockquote>
+</blockquote>
 https://www.villagevoice.com/2016/07/06/google-is-transforming-nycs-payphones-into-a-personalized-propaganda-engine/
 
 More than 1,600 LinkNYC kiosks are up and running in New York City, according to The Intercept article, and several thousand are still in the pipeline. LinkNYC also has plans to hit Philadelphia, Toronto, and the UK. The Intercept writes that each kiosk has 30 sensors. These are coupled with what we have already pointed out many times over: 3 cameras, microphone, and Bluetooth beacon.
