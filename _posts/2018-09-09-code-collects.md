@@ -15,7 +15,7 @@ The code was discovered by New York City of Technology undergraduate Charles Mey
 
 Researchers, technologists, and privacy experts have a common opinion in [The Intercept article](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/): Without a proper auditing system, such as third-party oversight, there is no way to actually know what the kiosks collect and how they monetize your data.
 
-Although LinkNYC's privacy policy considers MAC address (anonymized), IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device type, and device identifiers as technical information, they are personally identifying, given that device identifiers are unique per device and practically no one shares their devices. Not to mention that the EU legally considers IP addresses as personally identify information. The legal definition unfortunately just depends on whose interest lawmakers have in mind.
+Although LinkNYC's privacy policy considers MAC address (anonymized), IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device type, and device identifiers as technical information, they are personally identifying, given that device identifiers are unique per device and practically no one shares their devices. Not to mention that the EU legally considers IP and MAC addresses as personally identify information. The legal definition unfortunately just depends on whose interest lawmakers have in mind.
 
 Moreover, LinkNYC has no qualms about combining that so-called technical information with data from third parties, as stated in their privacy policy.
 
