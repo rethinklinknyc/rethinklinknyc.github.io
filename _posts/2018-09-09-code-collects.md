@@ -11,7 +11,7 @@ Longitude and latitude, browser type, operating system, device type, device iden
 LinkNYC disputes these speculations. David Mitchell, Intersection’s chief technology officer, told the Intercept that the code was never intended to be released and was part of a longer-term research and development process. “In this instance,” he explained over email, “Intersection was prototyping and testing some ideas internally, using employee data only, and mistakenly made source code public on Github. This code is not in use on the LinkNYC network.” An Intersection spokesperson added that LinkNYC does not collect users’ clickstream data or browsing history, and that it has not used the “RxLocation” codebase to collect user data. LinkNYC did not respond to repeated questions about the function or purpose of the code.
 </blockquote>
 
-The code was discovered by New York City of Technology undergraduate Charles Meyer. It has since been taken down by Github, now owned by Microsoft, after it received a request from CityBridge on the grounds of copyright violations.
+The code was discovered by New York City of Technology undergraduate Charles Meyer. It has since been taken down by Github, now owned by Microsoft, after it received a request from CityBridge on the grounds of [copyright violations](https://github.com/github/dmca/blob/master/2018/2018-08-06-Intersection.md).
 
 Researchers, technologists, and privacy experts have a common opinion in [The Intercept article](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/): Without a proper auditing system, such as third-party oversight, there is no way to actually know what the kiosks collect and how they monetize your data.
 
