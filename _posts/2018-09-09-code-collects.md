@@ -1,11 +1,13 @@
 ---
-title: LinkNYC Code Collects Location Data And PII
+title: LinkNYC Code Collects Location Data And Personally Identifying Information
 layout: post
 published: true
 ---
 **Intersection Writes It Off As Just A Prototype and A Test**
 
-Longitude and latitude, browser type, operating system, device type, device identifiers, and full URL clickstreams (including date and time). These are the data that the code collects and aggregates into a database.
+Intercept journalist Ava Kofman exposes LinkNYC is experimenting with invasive tracking in recent [article](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/).
+
+Longitude, latitude, operating system, browser, device, device identifiers, and full URL clickstreams including date and time. These are the data that the code collects and aggregates into a database.
 
 <blockquote>
 LinkNYC disputes these speculations. David Mitchell, Intersection’s chief technology officer, told the Intercept that the code was never intended to be released and was part of a longer-term research and development process. “In this instance,” he explained over email, “Intersection was prototyping and testing some ideas internally, using employee data only, and mistakenly made source code public on Github. This code is not in use on the LinkNYC network.” An Intersection spokesperson added that LinkNYC does not collect users’ clickstream data or browsing history, and that it has not used the “RxLocation” codebase to collect user data. LinkNYC did not respond to repeated questions about the function or purpose of the code.
@@ -13,7 +15,7 @@ LinkNYC disputes these speculations. David Mitchell, Intersection’s chief tech
 
 The code was discovered by New York City of Technology undergraduate Charles Meyer. It has since been taken down by Github, now owned by Microsoft, after it received a request from CityBridge on the grounds of [copyright violations](https://github.com/github/dmca/blob/master/2018/2018-08-06-Intersection.md).
 
-Researchers, technologists, and privacy experts have a common opinion in [The Intercept article](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/): Without a proper auditing system, such as third-party oversight, there is no way to actually know what the kiosks collect and how they monetize your data.
+Researchers, technologists, and privacy experts have a common opinion in The Intercept article: Without a proper auditing system, such as third-party oversight, there is no way to actually know what the kiosks collect and how they monetize your data.
 
 Although LinkNYC's privacy policy considers MAC address (anonymized), IP address, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, device type, and device identifiers as technical information, they are personally identifying, given that device identifiers are unique per device and practically no one shares their devices. Not to mention that the EU legally considers IP and MAC addresses as personally identify information. The legal definition unfortunately just depends on whose interest lawmakers have in mind.
 
