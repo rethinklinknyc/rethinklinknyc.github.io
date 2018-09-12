@@ -7,7 +7,7 @@ published: true
 
 Intercept journalist Ava Kofman exposes LinkNYC is experimenting with invasive tracking in recent [article](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/).
 
-Longitude, latitude, operating system, browser, device, device identifiers, and full URL clickstreams that includes date and time. These are the data that the code collects and aggregates into a database.
+Longitude, latitude, operating system, browser, device, device identifiers, and full URL clickstreams that include date and time. These are the data that the code collects and aggregates into a database.
 
 <blockquote>
 LinkNYC disputes these speculations. David Mitchell, Intersection’s chief technology officer, told the Intercept that the code was never intended to be released and was part of a longer-term research and development process. “In this instance,” he explained over email, “Intersection was prototyping and testing some ideas internally, using employee data only, and mistakenly made source code public on Github. This code is not in use on the LinkNYC network.” An Intersection spokesperson added that LinkNYC does not collect users’ clickstream data or browsing history, and that it has not used the “RxLocation” codebase to collect user data. LinkNYC did not respond to repeated questions about the function or purpose of the code.
