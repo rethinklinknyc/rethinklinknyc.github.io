@@ -1,5 +1,5 @@
 ---
-title: Privacy-invasive kiosks already a global issue
+title: Privacy-invasive kiosks a global issue
 layout: post
 published: true
 ---
