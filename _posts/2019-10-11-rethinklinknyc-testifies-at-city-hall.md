@@ -89,3 +89,6 @@ nature allows companies to lie about how connected
 who I walked down the street with, or who visited me 
  in my apartment.  We shouldn't wait until it becomes public that this
 was done.
+
+For more coverage, see the Gothamist opinion peice: [Surveillance and the City: Facing Up to Facial Recognition](https://www.gothamgazette.com/opinion/8842-surveillance-and-the-city-facing-up-to-facial-recognition)
+
